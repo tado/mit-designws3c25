@@ -160,39 +160,39 @@ MACは、主観性を排し、客観的な造形原理に基づいた抽象芸�
 
 ## VI. 参考文献
 
-[1] 神奈川県立近代美術館. (2018). *ブルーノ・ムナーリ こどもの心をもちつづけるということ*. 求龍堂.
-[2] 阿部雅世. (2018). ブルーノ・ムナーリ　人と仕事. *ブルーノ・ムナーリ こどもの心をもちつづけるということ* (pp. 16-21). 求龍堂.
-[3] Wikipedia. (2024). *ブルーノ・ムナーリ*. [https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%AB%E3%83%BC%E3%83%8E%E3%83%BB%E3%83%A0%E3%83%8A%E3%83%BC%E3%83%AA](https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%AB%E3%83%BC%E3%83%8E%E3%83%BB%E3%83%A0%E3%83%8A%E3%83%BC%E3%83%AA)
-[4] Treccani. (n.d.). *Munari, Bruno*. Enciclopedia Italiana - V Appendice (1993). [https://www.treccani.it/enciclopedia/bruno-munari\_%28Enciclopedia-Italiana%29/](https://www.treccani.it/enciclopedia/bruno-munari_%28Enciclopedia-Italiana%29/)
-[5] Wikipedia. (2024). *Bruno Munari*. [https://en.wikipedia.org/wiki/Bruno\_Munari](https://en.wikipedia.org/wiki/Bruno_Munari)
-[6] Bruno Munari. (n.d.). *Who is Bruno Munari*. [https://www.brunomunari.it/en/bio/who-is-bruno-munari](https://www.google.com/search?q=https://www.brunomunari.it/en/bio/who-is-bruno-munari)
-[7] Bruno Munari Association. (n.d.). *Bruno Munari*. [https://www.munart.org/index.php?p=bio\&l=en](https://www.google.com/search?q=https://www.munart.org/index.php%3Fp%3Dbio%26l%3Den)
-[8] Meneguzzo, M. (2018). ブルーノ・ムナーリとイタリアの芸術状況：未来派からマッキナ・イヌーティレへ. *ブルーノ・ムナーリ こどもの心をもちつづけるということ* (pp. 22-27). 求龍堂.
-[9] MoMA. (n.d.). *Bruno Munari*. [https://www.moma.org/artists/4183](https://www.moma.org/artists/4183)
-[10] 岩崎清. (2018). ムナーリの本づくり. *ブルーノ・ムナーリ こどもの心をもちつづけるということ* (pp. 152-155). 求龍堂.
-[11] Fioravanti, G., Passarelli, L., & Sfligiotti, S. (1997). *La Grafica in Italia*. Leonardo Arte. (Cited in Wikipedia)
-[12] 神奈川県立近代美術館. (n.d.). *ブルーノ・ムナーリ こどもの心をもちつづけるということ*. [https://www.moma.pref.kanagawa.jp/exhibition/2018-munari](https://www.google.com/search?q=https://www.moma.pref.kanagawa.jp/exhibition/2018-munari)
-[13] 世田谷美術館. (n.d.). *ブルーノ・ムナーリ展　役に立たない機械をつくった男*. [https://www.setagayaartmuseum.or.jp/exhibition/special/detail.php?id=sp00185](https://www.setagayaartmuseum.or.jp/exhibition/special/detail.php?id=sp00185)
-[14] 美術手帖. (2018). *ブルーノ・ムナーリ展 役に立たない機械をつくった男*. [https://bijutsutecho.com/exhibitions/1424](https://bijutsutecho.com/exhibitions/1424)
-[15] ムナーリ, B. (著), 阿部雅世 (訳). (2009). *木をかこう 新装版*. ブロンズ新社.
-[16] ムナーリ, B. (作), 谷川俊太郎 (訳). (2012). *闇の夜に*. 河出書房新社. / ムナーリ, B. (作), 谷川俊太郎 (訳). (2012). *きりのなかのサーカス*. 河出書房新社.
-[17] Corraini Edizioni. (n.d.). *Libri Illeggibili*. [https://www.corraini.com/it/catalogo/scheda\_libro/109/Libri-Illeggibili](https://www.google.com/search?q=https://www.corraini.com/it/catalogo/scheda_libro/109/Libri-Illeggibili)
-[18] Setagaya Art Museum. (n.d.). *Bruno Munari*. [https://www.setagayaartmuseum.or.jp/munari/en/munari.html](https://www.google.com/search?q=https://www.setagayaartmuseum.or.jp/munari/en/munari.html)
-[19] Designculture. (n.d.). *Bruno Munari*. [https://www.designculture.it/profile/bruno-munari.html](https://www.google.com/search?q=https://www.designculture.it/profile/bruno-munari.html)
-[20] Maffei, S. (n.d.). *Bruno Munari*. Museo del Design Italiano, Triennale Milano. [https://museo.triennale.org/en/designer/bruno-munari/](https://www.google.com/search?q=https://museo.triennale.org/en/designer/bruno-munari/)
-[21] ADI Design Museum. (n.d.). *Bruno Munari*. [https://www.adidesignmuseum.org/en/explore/designers/bruno-munari/](https://www.google.com/search?q=https://www.adidesignmuseum.org/en/explore/designers/bruno-munari/)
-[22] Tate. (n.d.). *Bruno Munari 1907–1998*. [https://www.tate.org.uk/art/artists/bruno-munari-1679](https://www.google.com/search?q=https://www.tate.org.uk/art/artists/bruno-munari-1679)
-[23] Danese Milano. (n.d.). *Bruno Munari*. [https://danesemilano.com/en/designer/bruno-munari/](https://www.google.com/search?q=https://danesemilano.com/en/designer/bruno-munari/)
-[24] Guggenheim. (n.d.). *Bruno Munari*. [https://www.guggenheim.org/artwork/artist/bruno-munari](https://www.google.com/search?q=https://www.guggenheim.org/artwork/artist/bruno-munari)
-[25] Corraini Edizioni. (n.d.). *Le Macchine Inutili*. [https://www.corraini.com/it/catalogo/scheda\_libro/136/Le-Macchine-Inutili](https://www.google.com/search?q=https://www.corraini.com/it/catalogo/scheda_libro/136/Le-Macchine-Inutili)
-[26] Casati Gallery. (n.d.). *Bruno Munari*. [https://casatigallery.com/designers/bruno-munari/](https://casatigallery.com/designers/bruno-munari/)
-[27] Domus. (2020). *An object lesson from Bruno Munari*. [https://www.domusweb.it/en/design/gallery/2020/05/21/design-as-object-lesson-from-bruno-munari.html](https://www.google.com/search?q=https://www.domusweb.it/en/design/gallery/2020/05/21/design-as-object-lesson-from-bruno-munari.html)
-[28] Hollis, R. (2002). Bruno Munari: The Playful Designer. *Eye Magazine*, *11*(43). [https://eyemagazine.com/feature/article/bruno-munari-the-playful-designer](https://www.google.com/search?q=https://eyemagazine.com/feature/article/bruno-munari-the-playful-designer)
-[29] Smow. (n.d.). *Bruno Munari*. [https://www.smow.com/en/designers/bruno-munari/](https://www.google.com/search?q=https://www.smow.com/en/designers/bruno-munari/)
-[30] 河出書房新社. (n.d.). *ブルーノ・ムナーリの本*. [https://www.kawade.co.jp/feature/munari/](https://www.google.com/search?q=https://www.kawade.co.jp/feature/munari/)
-[31] こどもり. (n.d.). *ムナーリ・メソッドとは？ 子どもの感性と創造性を刺激するワークショップ*. [https://codomori.jp/column/2707/](https://www.google.com/search?q=https://codomori.jp/column/2707/)
-[32] Munari, B. (1981). *Da cosa nasce cosa. Appunti per una metodologia progettuale*. Laterza. (Cited indirectly)
-[33] Casa Munari. (n.d.). *Workshop*. [http://casamunari.jp/workshop.html](https://www.google.com/search?q=http://casamunari.jp/workshop.html)
-[34] Munari, B. (1996). *Design e comunicazione visiva. Contributo a una metodologia didattica*. Laterza. (Cited indirectly)
+- [1] 神奈川県立近代美術館. (2018). *ブルーノ・ムナーリ こどもの心をもちつづけるということ*. 求龍堂.
+- [2] 阿部雅世. (2018). ブルーノ・ムナーリ　人と仕事. *ブルーノ・ムナーリ こどもの心をもちつづけるということ* (pp. 16-21). 求龍堂.
+- [3] Wikipedia. (2024). *ブルーノ・ムナーリ*. [https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%AB%E3%83%BC%E3%83%8E%E3%83%BB%E3%83%A0%E3%83%8A%E3%83%BC%E3%83%AA](https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%AB%E3%83%BC%E3%83%8E%E3%83%BB%E3%83%A0%E3%83%8A%E3%83%BC%E3%83%AA)
+- [4] Treccani. (n.d.). *Munari, Bruno*. Enciclopedia Italiana - V Appendice (1993). [https://www.treccani.it/enciclopedia/bruno-munari\_%28Enciclopedia-Italiana%29/](https://www.treccani.it/enciclopedia/bruno-munari_%28Enciclopedia-Italiana%29/)
+- [5] Wikipedia. (2024). *Bruno Munari*. [https://en.wikipedia.org/wiki/Bruno\_Munari](https://en.wikipedia.org/wiki/Bruno_Munari)
+- [6] Bruno Munari. (n.d.). *Who is Bruno Munari*. [https://www.brunomunari.it/en/bio/who-is-bruno-munari](https://www.google.com/search?q=https://www.brunomunari.it/en/bio/who-is-bruno-munari)
+- [7] Bruno Munari Association. (n.d.). *Bruno Munari*. [https://www.munart.org/index.php?p=bio\&l=en](https://www.google.com/search?q=https://www.munart.org/index.php%3Fp%3Dbio%26l%3Den)
+- [8] Meneguzzo, M. (2018). ブルーノ・ムナーリとイタリアの芸術状況：未来派からマッキナ・イヌーティレへ. *ブルーノ・ムナーリ こどもの心をもちつづけるということ* (pp. 22-27). 求龍堂.
+- [9] MoMA. (n.d.). *Bruno Munari*. [https://www.moma.org/artists/4183](https://www.moma.org/artists/4183)
+- [10] 岩崎清. (2018). ムナーリの本づくり. *ブルーノ・ムナーリ こどもの心をもちつづけるということ* (pp. 152-155). 求龍堂.
+- [11] Fioravanti, G., Passarelli, L., & Sfligiotti, S. (1997). *La Grafica in Italia*. Leonardo Arte. (Cited in Wikipedia)
+- [12] 神奈川県立近代美術館. (n.d.). *ブルーノ・ムナーリ こどもの心をもちつづけるということ*. [https://www.moma.pref.kanagawa.jp/exhibition/2018-munari](https://www.google.com/search?q=https://www.moma.pref.kanagawa.jp/exhibition/2018-munari)
+- [13] 世田谷美術館. (n.d.). *ブルーノ・ムナーリ展　役に立たない機械をつくった男*. [https://www.setagayaartmuseum.or.jp/exhibition/special/detail.php?id=sp00185](https://www.setagayaartmuseum.or.jp/exhibition/special/detail.php?id=sp00185)
+- [14] 美術手帖. (2018). *ブルーノ・ムナーリ展 役に立たない機械をつくった男*. [https://bijutsutecho.com/exhibitions/1424](https://bijutsutecho.com/exhibitions/1424)
+- [15] ムナーリ, B. (著), 阿部雅世 (訳). (2009). *木をかこう 新装版*. ブロンズ新社.
+- [16] ムナーリ, B. (作), 谷川俊太郎 (訳). (2012). *闇の夜に*. 河出書房新社. / ムナーリ, B. (作), 谷川俊太郎 (訳). (2012). *きりのなかのサーカス*. 河出書房新社.
+- [17] Corraini Edizioni. (n.d.). *Libri Illeggibili*. [https://www.corraini.com/it/catalogo/scheda\_libro/109/Libri-Illeggibili](https://www.google.com/search?q=https://www.corraini.com/it/catalogo/scheda_libro/109/Libri-Illeggibili)
+- [18] Setagaya Art Museum. (n.d.). *Bruno Munari*. [https://www.setagayaartmuseum.or.jp/munari/en/munari.html](https://www.google.com/search?q=https://www.setagayaartmuseum.or.jp/munari/en/munari.html)
+- [19] Designculture. (n.d.). *Bruno Munari*. [https://www.designculture.it/profile/bruno-munari.html](https://www.google.com/search?q=https://www.designculture.it/profile/bruno-munari.html)
+- [20] Maffei, S. (n.d.). *Bruno Munari*. Museo del Design Italiano, Triennale Milano. [https://museo.triennale.org/en/designer/bruno-munari/](https://www.google.com/search?q=https://museo.triennale.org/en/designer/bruno-munari/)
+- [21] ADI Design Museum. (n.d.). *Bruno Munari*. [https://www.adidesignmuseum.org/en/explore/designers/bruno-munari/](https://www.google.com/search?q=https://www.adidesignmuseum.org/en/explore/designers/bruno-munari/)
+- [22] Tate. (n.d.). *Bruno Munari 1907–1998*. [https://www.tate.org.uk/art/artists/bruno-munari-1679](https://www.google.com/search?q=https://www.tate.org.uk/art/artists/bruno-munari-1679)
+- [23] Danese Milano. (n.d.). *Bruno Munari*. [https://danesemilano.com/en/designer/bruno-munari/](https://www.google.com/search?q=https://danesemilano.com/en/designer/bruno-munari/)
+- [24] Guggenheim. (n.d.). *Bruno Munari*. [https://www.guggenheim.org/artwork/artist/bruno-munari](https://www.google.com/search?q=https://www.guggenheim.org/artwork/artist/bruno-munari)
+- [25] Corraini Edizioni. (n.d.). *Le Macchine Inutili*. [https://www.corraini.com/it/catalogo/scheda\_libro/136/Le-Macchine-Inutili](https://www.google.com/search?q=https://www.corraini.com/it/catalogo/scheda_libro/136/Le-Macchine-Inutili)
+- [26] Casati Gallery. (n.d.). *Bruno Munari*. [https://casatigallery.com/designers/bruno-munari/](https://casatigallery.com/designers/bruno-munari/)
+- [27] Domus. (2020). *An object lesson from Bruno Munari*. [https://www.domusweb.it/en/design/gallery/2020/05/21/design-as-object-lesson-from-bruno-munari.html](https://www.google.com/search?q=https://www.domusweb.it/en/design/gallery/2020/05/21/design-as-object-lesson-from-bruno-munari.html)
+- [28] Hollis, R. (2002). Bruno Munari: The Playful Designer. *Eye Magazine*, *11*(43). [https://eyemagazine.com/feature/article/bruno-munari-the-playful-designer](https://www.google.com/search?q=https://eyemagazine.com/feature/article/bruno-munari-the-playful-designer)
+- [29] Smow. (n.d.). *Bruno Munari*. [https://www.smow.com/en/designers/bruno-munari/](https://www.google.com/search?q=https://www.smow.com/en/designers/bruno-munari/)
+- [30] 河出書房新社. (n.d.). *ブルーノ・ムナーリの本*. [https://www.kawade.co.jp/feature/munari/](https://www.google.com/search?q=https://www.kawade.co.jp/feature/munari/)
+- [31] こどもり. (n.d.). *ムナーリ・メソッドとは？ 子どもの感性と創造性を刺激するワークショップ*. [https://codomori.jp/column/2707/](https://www.google.com/search?q=https://codomori.jp/column/2707/)
+- [32] Munari, B. (1981). *Da cosa nasce cosa. Appunti per una metodologia progettuale*. Laterza. (Cited indirectly)
+- [33] Casa Munari. (n.d.). *Workshop*. [http://casamunari.jp/workshop.html](https://www.google.com/search?q=http://casamunari.jp/workshop.html)
+- [34] Munari, B. (1996). *Design e comunicazione visiva. Contributo a una metodologia didattica*. Laterza. (Cited indirectly)
 
 *(注記: 上記参考文献リストには、直接参照したウェブページや書籍に加え、他の資料中で引用されていた情報源も一部含みます。また、URLは2025年4月19日時点のものです。)*
