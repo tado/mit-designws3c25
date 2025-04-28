@@ -19,4 +19,5 @@
 - [束芋](./TabaImo.md)
 - [アンディ・ウォーホル](./AndyWarhol.md)
 - [オラファー・エリアソン](./OlafurEliasson.md)
+- [ジャン＝ミシェル・オトニエル](./Jean-MichelOthoniel.md)
 - [鈴木康広](./YasuhiroSuzuki.md)
