@@ -8,3 +8,13 @@
 - [02.ブルーノ・ムナーリ（Bruno Munari）](./02_BrunoMunari.md)
 - [03.カール・ゲルストナー（Karl Gerstner）](./03_KarlGerstner.md)
 - [04.アイバン・サザランド（Ivan Sutherland）](./04_IvanSutherland.md)
+
+## 原美術館ARC、見学参考資料
+
+- [ジャネット・カーディフ](./JanetCardiff.md)
+- [ソフィ・カル](./SophieCalle.md)
+- [草間彌生](./YayoiKusama.md)
+- [束芋](./TabaImo.md)
+- [アンディ・ウォーホル](./AndyWarhol.md)
+- [オラファー・エリアソン](./OlafurEliasson.md)
+- [鈴木康広](./YasuhiroSuzuki.md)
