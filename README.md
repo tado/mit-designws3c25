@@ -9,6 +9,7 @@
 - [03.カール・ゲルストナー（Karl Gerstner）](./03_KarlGerstner.md)
 - [04.アイバン・サザランド（Ivan Sutherland）](./04_IvanSutherland.md)
 - [05.マックス・ビル（Max Bill）](./05_MaxBill.md)
+- [06.スチュワート・ブランド (Stewart Brand)](./06_StewartBrand.md)
 
 ## 原美術館ARC、見学参考資料
 
