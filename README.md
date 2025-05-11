@@ -8,6 +8,7 @@
 - [02.ブルーノ・ムナーリ（Bruno Munari）](./02_BrunoMunari.md)
 - [03.カール・ゲルストナー（Karl Gerstner）](./03_KarlGerstner.md)
 - [04.アイバン・サザランド（Ivan Sutherland）](./04_IvanSutherland.md)
+- [05.マックス・ビル（Max Bill）](./05_MaxBill.md)
 
 ## 原美術館ARC、見学参考資料
 
