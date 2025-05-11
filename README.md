@@ -11,6 +11,7 @@
 - [05.マックス・ビル（Max Bill）](./05_MaxBill.md)
 - [06.スチュワート・ブランド (Stewart Brand)](./06_StewartBrand.md)
 - [07.ウィム・クロウエル (Wim Crouwel)](./07_WimCrouwel.md)
+- [08.ソル・ルウィット (Sol LeWitt)](./08_SolLeWitt.md)
 
 ## 原美術館ARC、見学参考資料
 
