@@ -1,6 +1,6 @@
 # **アイバン・サザランド：コンピュータグラフィックスとインタラクティブ・コンピューティングのパイオニア**
 
-![](https://bimaplus.org/wp-content/uploads/2018/12/ImageToNews_Sketchpad-01.png)
+![](https://www.researchgate.net/publication/354463840/figure/fig1/AS:1066068692975617@1631181991867/an-Sutherland-operating-Sketchpad-and-some-of-the-softwares-behavioural-diagrams-1963.jpg)
 
 ## **1\. はじめに**
 
