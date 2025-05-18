@@ -13,7 +13,7 @@
 - [07.ウィム・クロウエル (Wim Crouwel)](./07_WimCrouwel.md)
 - [08.ソル・ルウィット (Sol LeWitt)](./08_SolLeWitt.md)
 - [09.シャロン・ポーゲンポール (Sharon Poggenpohl)](./09_SharonPoggenpohl.md)
-- [10.エイプリル・レイマン (April Greiman)](./10_AprilGreiman.md)
+- [10.エイプリル・グレイマン (April Greiman)](./10_AprilGreiman.md)
 - [11.ミュリエル・クーパー (Muriel Cooper)](./11_MurielCooper.md)
 - [12.ズザーナ・リッコ (Zuzana Licko)](./12_ZuzanaLicko.md)
 
