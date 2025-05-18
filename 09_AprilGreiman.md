@@ -1,6 +1,7 @@
 # **エイプリル・グレイマン：デジタル時代の先駆者、その革新と遺産**
 
 ![](https://i-p.rmcdn.net/5a1d3f6e8d0f9660e0f879e9/933997/upload-8cf27080-0735-11e8-8674-a709d30fc624.jpg?w=1197&e=webp)
+[Readymag Stories: April Greiman](https://readymag.com/designstories/april-greiman/)
 
 ## **1\. はじめに (Introduction)**
 
