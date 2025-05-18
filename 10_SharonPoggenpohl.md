@@ -1,6 +1,6 @@
 # **シャロン・ポーゲンポール：デザイン研究と教育のパイオニア**
 
-![](https://m.media-amazon.com/images/I/71WwxMPqclL._AC_UF1000,1000_QL80_.jpg)
+![](https://m.media-amazon.com/images/I/71WwxMPqclL._AC_UF1000,1000_QL80_.jpg)  
 [Design Integrations: Research and Collaboration](https://www.amazon.com/Design-Integrations-Collaboration-Sharon-Poggenpohl/dp/1841502405)
 
 ## **序論**
