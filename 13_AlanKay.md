@@ -1,6 +1,7 @@
 # **アラン・ケイ：パーソナルコンピューティングのパイオニアとその思想**
 
 ![](https://techland.time.com/wp-content/uploads/sites/15/2013/03/image6.jpg)
+[Dynabook](https://en.wikipedia.org/wiki/Dynabook)
 
 ## **1\. 序論**
 
