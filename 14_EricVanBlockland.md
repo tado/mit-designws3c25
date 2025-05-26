@@ -1,6 +1,6 @@
 # **エリック・ヴァン・ブロックランドとジュスト・ヴァン・ロッサム：デジタルタイポグラフィの革新者たち**
 
-！[](https://www.moma.org/media/W1siZiIsIjIwMjY2MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MTQ0MFx1MDAzZSJdXQ.jpg)
+![](https://www.moma.org/media/W1siZiIsIjIwMjY2MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MTQ0MFx1MDAzZSJdXQ.jpg)
 [FF Beowolf](https://www.moma.org/collection/works/139326)
 
 **1\. はじめに**
