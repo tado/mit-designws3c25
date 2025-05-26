@@ -17,6 +17,7 @@
 - [11.ミュリエル・クーパー (Muriel Cooper)](./11_MurielCooper.md)
 - [12.ズザーナ・リッコ (Zuzana Licko)](./12_ZuzanaLicko.md)
 - [13.アラン・ケイ (Alan Kay)](./13_AlanKay.md)
+- [14.エリック・ヴァン・ブロックランド (Erik van Blokland)](./14_ErikvanBlokland.md)
 
 ## 原美術館ARC、見学参考資料
 
