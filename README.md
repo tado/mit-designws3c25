@@ -31,3 +31,7 @@
 - [オラファー・エリアソン](./OlafurEliasson.md)
 - [ジャン＝ミシェル・オトニエル](./Jean-MichelOthoniel.md)
 - [鈴木康広](./YasuhiroSuzuki.md)
+
+## アーツ前橋見学参考資料
+
+- [石田尚志](./TakashiIshigami.md)
