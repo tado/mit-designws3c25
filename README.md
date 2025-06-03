@@ -34,4 +34,4 @@
 
 ## アーツ前橋見学参考資料
 
-- [石田尚志](./TakashiIshigami.md)
+- [石田尚志](./TakashiIshida.md)
