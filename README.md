@@ -4,6 +4,7 @@
 
 [未来を築くデザインの思想 - ポスト人間中心デザインへ向けて読むべき24のテキスト](https://bnn.co.jp/products/9784802510332)
 
+SECTION ONE：デジタルを構造化する
 - [01.ラジスラフ・ストナル（Ladislav Sutnar)](./01_LadislavSutnar.md)
 - [02.ブルーノ・ムナーリ（Bruno Munari）](./02_BrunoMunari.md)
 - [03.カール・ゲルストナー（Karl Gerstner）](./03_KarlGerstner.md)
@@ -12,6 +13,8 @@
 - [06.スチュワート・ブランド (Stewart Brand)](./06_StewartBrand.md)
 - [07.ウィム・クロウエル (Wim Crouwel)](./07_WimCrouwel.md)
 - [08.ソル・ルウィット (Sol LeWitt)](./08_SolLeWitt.md)
+
+SECTION TWO：中央処理への抵抗
 - [09.シャロン・ポーゲンポール (Sharon Poggenpohl)](./09_SharonPoggenpohl.md)
 - [10.エイプリル・グレイマン (April Greiman)](./10_AprilGreiman.md)
 - [11.ミュリエル・クーパー (Muriel Cooper)](./11_MurielCooper.md)
@@ -20,6 +23,8 @@
 - [14.エリック・ヴァン・ブロックランド (Erik van Blokland)](./14_EricVanBlockland.md)
 - [15.P.スコット・マケラ (P. Scott Makela)](./15_PScottMakela.md)
 - [16.ジョン・マエダ(John Maeda)](./16_JohnMaeda.md)
+
+SECTION THREE：未来をコード化する
 - [17.ベン・フライ ケーシー・リース (Ben Fry & Casey Reas)](./17_BenFryCaseyReas.md)
 - [18.パオラ・アントネッリ (Paola Antonelli)](./18_PaolaAntonelli.md)
 - [19.ヒュー・ダバリー (Hugh Dubberly)](./19_HughDubberly.md)
