@@ -12,16 +12,24 @@
 - [06.スチュワート・ブランド (Stewart Brand)](./06_StewartBrand.md)
 - [07.ウィム・クロウエル (Wim Crouwel)](./07_WimCrouwel.md)
 - [08.ソル・ルウィット (Sol LeWitt)](./08_SolLeWitt.md)
+
 - [09.シャロン・ポーゲンポール (Sharon Poggenpohl)](./09_SharonPoggenpohl.md)
 - [10.エイプリル・グレイマン (April Greiman)](./10_AprilGreiman.md)
 - [11.ミュリエル・クーパー (Muriel Cooper)](./11_MurielCooper.md)
 - [12.ズザーナ・リッコ (Zuzana Licko)](./12_ZuzanaLicko.md)
 - [13.アラン・ケイ (Alan Kay)](./13_AlanKay.md)
 - [14.エリック・ヴァン・ブロックランド (Erik van Blokland)](./14_ErikvanBlokland.md)
-- [15.ベン・フライ ケーシー・リース (Ben Fry & Casey Reas)](./15_BenFryCaseyReas.md)
-- [16.パオラ・アントネッリ (Paola Antonelli)](./16_PaolaAntonelli.md)
-- [17.ヒュー・ダバリー (Hugh Dubberly)](./17_HughDubberly.md)
-- [18.コンディショナル・デザイン](./18_ConditionalDesign.md)
+- [15.P.スコット・マケラ (P. Scott Makela)](./15_PScottMakela.md)
+- [16.ジョン・マエダ(John Maeda)](./16_JohnMaeda.md)
+- [17.ベン・フライ ケーシー・リース (Ben Fry & Casey Reas)](./17_BenFryCaseyReas.md)
+- [18.パオラ・アントネッリ (Paola Antonelli)](./18_PaolaAntonelli.md)
+- [19.ヒュー・ダバリー (Hugh Dubberly)](./19_HughDubberly.md)
+- [20.コンディショナル・デザイン](./20_ConditionalDesign.md)
+- [21.]() 
+- [22.]()
+- [23.]()
+- [24.]() 
+
 
 ## 原美術館ARC、見学参考資料
 
