@@ -28,7 +28,7 @@ SECTION THREE：未来をコード化する
 - [17.ベン・フライ ケーシー・リース (Ben Fry & Casey Reas)](./17_BenFryCaseyReas.md)
 - [18.パオラ・アントネッリ (Paola Antonelli)](./18_PaolaAntonelli.md)
 - [19.ヒュー・ダバリー (Hugh Dubberly)](./19_HughDubberly.md)
-- [20.コンディショナル・デザイン](./20_ConditionalDesign.md)
+- [20.コンディショナル・デザイン (Conditional Design)](./20_ConditionalDesign.md)
 - [21.ブレンダ・ローレル (Brenda Laurel)](./21_BrendaLaurel.md) 
 - [22.コイ・ヴィン (Koi Vinh)](./22_KoiVinh.md)
 - [23.キートラ・ディーン・ディクソン (Keetra Dean Dixon)](./23_KeetraDeanDixon.md)
