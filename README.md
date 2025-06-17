@@ -12,7 +12,6 @@
 - [06.スチュワート・ブランド (Stewart Brand)](./06_StewartBrand.md)
 - [07.ウィム・クロウエル (Wim Crouwel)](./07_WimCrouwel.md)
 - [08.ソル・ルウィット (Sol LeWitt)](./08_SolLeWitt.md)
-
 - [09.シャロン・ポーゲンポール (Sharon Poggenpohl)](./09_SharonPoggenpohl.md)
 - [10.エイプリル・グレイマン (April Greiman)](./10_AprilGreiman.md)
 - [11.ミュリエル・クーパー (Muriel Cooper)](./11_MurielCooper.md)
@@ -25,10 +24,10 @@
 - [18.パオラ・アントネッリ (Paola Antonelli)](./18_PaolaAntonelli.md)
 - [19.ヒュー・ダバリー (Hugh Dubberly)](./19_HughDubberly.md)
 - [20.コンディショナル・デザイン](./20_ConditionalDesign.md)
-- [21.ブレンダ・ローレル](./21_BrendaLaurel.md) 
-- [22.コイ・ヴィン](./22_KoiVinh.md)
-- [23.キートラ・ディーン・ディクソン](./23_KeetraDeanDixon.md)
-- [24.ホーコン・ファステ](./24_HaakonFaste.md) 
+- [21.ブレンダ・ローレル (Brenda Laurel)](./21_BrendaLaurel.md) 
+- [22.コイ・ヴィン (Koi Vinh)](./22_KoiVinh.md)
+- [23.キートラ・ディーン・ディクソン (Keetra Dean Dixon)](./23_KeetraDeanDixon.md)
+- [24.ホーコン・ファステ (HaakonFaste)](./24_HaakonFaste.md) 
 
 
 ## 原美術館ARC、見学参考資料
