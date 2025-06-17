@@ -30,7 +30,7 @@ SECTION THREE：未来をコード化する
 - [19.ヒュー・ダバリー (Hugh Dubberly)](./19_HughDubberly.md)
 - [20.コンディショナル・デザイン (Conditional Design)](./20_ConditionalDesign.md)
 - [21.ブレンダ・ローレル (Brenda Laurel)](./21_BrendaLaurel.md) 
-- [22.コイ・ヴィン (Koi Vinh)](./22_KhoiVinh.md)
+- [22.コイ・ヴィン (Khoi Vinh)](./22_KhoiVinh.md)
 - [23.キートラ・ディーン・ディクソン (Keetra Dean Dixon)](./23_KeetraDeanDixon.md)
 - [24.ホーコン・ファステ (HaakonFaste)](./24_HaakonFaste.md) 
 
