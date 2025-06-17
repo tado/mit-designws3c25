@@ -3,6 +3,7 @@
 ## 「未来を築くデザインの思想」調査
 
 [未来を築くデザインの思想 - ポスト人間中心デザインへ向けて読むべき24のテキスト](https://bnn.co.jp/products/9784802510332)
+[Digital Design Theory (DDT)](https://www.digitaldesigntheory.com/)
 
 SECTION ONE：デジタルを構造化する
 - [01.ラジスラフ・ストナル（Ladislav Sutnar)](./01_LadislavSutnar.md)
