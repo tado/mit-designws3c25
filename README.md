@@ -18,9 +18,10 @@
 - [12.ズザーナ・リッコ (Zuzana Licko)](./12_ZuzanaLicko.md)
 - [13.アラン・ケイ (Alan Kay)](./13_AlanKay.md)
 - [14.エリック・ヴァン・ブロックランド (Erik van Blokland)](./14_ErikvanBlokland.md)
-- [15.ベン・フライ ケーシーリース (Ben Fry & Casey Reas)](./15_BenFryCaseyReas.md)
+- [15.ベン・フライ ケーシー・リース (Ben Fry & Casey Reas)](./15_BenFryCaseyReas.md)
 - [16.パオラ・アントネッリ (Paola Antonelli)](./16_PaolaAntonelli.md)
 - [17.ヒュー・ダバリー (Hugh Dubberly)](./17_HughDubberly.md)
+- [18.コンディショナル・デザイン](./18_ConditionalDesign.md)
 
 ## 原美術館ARC、見学参考資料
 
