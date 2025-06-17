@@ -17,7 +17,7 @@
 - [11.ミュリエル・クーパー (Muriel Cooper)](./11_MurielCooper.md)
 - [12.ズザーナ・リッコ (Zuzana Licko)](./12_ZuzanaLicko.md)
 - [13.アラン・ケイ (Alan Kay)](./13_AlanKay.md)
-- [14.エリック・ヴァン・ブロックランド (Erik van Blokland)](./14_ErikvanBlockland.md)
+- [14.エリック・ヴァン・ブロックランド (Erik van Blokland)](./14_EricVanBlockland.md)
 - [15.P.スコット・マケラ (P. Scott Makela)](./15_PScottMakela.md)
 - [16.ジョン・マエダ(John Maeda)](./16_JohnMaeda.md)
 - [17.ベン・フライ ケーシー・リース (Ben Fry & Casey Reas)](./17_BenFryCaseyReas.md)
