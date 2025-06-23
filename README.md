@@ -2,6 +2,8 @@
 
 ## 「未来を築くデザインの思想」調査
 
+![](https://bnn.co.jp/cdn/shop/products/9784802510332.jpg?v=1678270987)
+
 [未来を築くデザインの思想 - ポスト人間中心デザインへ向けて読むべき24のテキスト](https://bnn.co.jp/products/9784802510332)
 
 [Digital Design Theory (DDT)](https://www.digitaldesigntheory.com/)
