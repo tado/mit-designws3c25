@@ -1,6 +1,7 @@
-
-
 # **キートラ・ディーン・ディクソン：参加と不確実性の詩学**
+
+![](https://fromkeetra.com/wordpress/wp-content/uploads/2015/12/FactFeel_KeetraDDixon-600x608.jpg)
+[Extruder Concept for Surface Magazine 2013](https://fromkeetra.com/fact-feel/)
 
 ## **序論：境界を越えるデザイナー**
 
