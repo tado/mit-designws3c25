@@ -1,6 +1,7 @@
-
-
 # **ポストヒューマン時代の設計者：ホーコン・ファステの思想と実践**
+
+![](https://www.haakonfaste.com/images/posthuman_factors.jpg)
+[posthuman factors](http://www.haakonfaste.com/publications/posthuman_factors.pdf)
 
 ## **序論：ポストヒューマン時代の設計者、ホーコン・ファステ**
 
