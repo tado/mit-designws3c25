@@ -3,6 +3,7 @@
 # **コードの民主化：ケーシー・リースとベン・フライが拓いたクリエイティブ・コーディングの世界**
 
 ![](https://cdn.prod.website-files.com/61e6c06a23cb13bf76051194/63332e8940406ffa82cf6d91_Screen%20Shot%202022-09-27%20at%2018.09.59.png)
+[Process Compendium 2004—2010 (B)](https://reas.com/compendium_b_p/)
 
 ## **序論：ツールビルダー、アーティスト、そして教育者**
 
