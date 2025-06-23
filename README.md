@@ -6,6 +6,8 @@
 
 [Digital Design Theory (DDT)](https://www.digitaldesigntheory.com/)
 
+参考: [「書籍『未来を築くデザインの思想』の分析：デジタルデザインの思想的変遷とポスト人間中心デザインへの道程」](./ddt-outline.md)
+
 SECTION ONE：デジタルを構造化する
 - [01.ラジスラフ・ストナル（Ladislav Sutnar)](./01_LadislavSutnar.md)
 - [02.ブルーノ・ムナーリ（Bruno Munari）](./02_BrunoMunari.md)
