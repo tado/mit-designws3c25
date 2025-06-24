@@ -9,13 +9,13 @@
 
 SECTION ONE：デジタルを構造化する
 - [01.ラジスラフ・ストナル（Ladislav Sutnar)](./01_LadislavSutnar.md)
-- [02.ブルーノ・ムナーリ（Bruno Munari）](./02_BrunoMunari.md)
-- [03.カール・ゲルストナー（Karl Gerstner）](./03_KarlGerstner.md)
-- [04.アイバン・サザランド（Ivan Sutherland）](./04_IvanSutherland.md)
-- [05.マックス・ビル（Max Bill）](./05_MaxBill.md)
-- [06.スチュワート・ブランド (Stewart Brand)](./06_StewartBrand.md)
-- [07.ウィム・クロウエル (Wim Crouwel)](./07_WimCrouwel.md)
-- [08.ソル・ルウィット (Sol LeWitt)](./08_SolLeWitt.md)
+- [02.ブルーノ・ムナーリ（Bruno Munari）](./02_BrunoMunari.md), [PDF](./02.ブルーノ・ムナーリー.pdf)
+- [03.カール・ゲルストナー（Karl Gerstner）](./03_KarlGerstner.md), [PDF](./03.カール・ゲルストナー.pdf)
+- [04.アイバン・サザランド（Ivan Sutherland）](./04_IvanSutherland.md), [PDF](./04.アイバン・サザランド.pdf)
+- [05.マックス・ビル（Max Bill）](./05_MaxBill.md), [PDF](./05.マックス・ビル.pdf)
+- [06.スチュワート・ブランド (Stewart Brand)](./06_StewartBrand.md), [PDF](./06.スチュワート・ブランド.pdf)
+- [07.ウィム・クロウエル (Wim Crouwel)](./07_WimCrouwel.md), [PDF](./07.ウィム・クロウエル.pdf)
+- [08.ソル・ルウィット (Sol LeWitt)](./08_SolLeWitt.md), [PDF](./08.ソル・ルウィット.pdf)
 
 SECTION TWO：中央処理への抵抗
 - [09.シャロン・ポーゲンポール (Sharon Poggenpohl)](./09_SharonPoggenpohl.md)
