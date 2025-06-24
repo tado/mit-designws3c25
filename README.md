@@ -3,7 +3,7 @@
 ## 「未来を築くデザインの思想」調査
 
 - [未来を築くデザインの思想 - ポスト人間中心デザインへ向けて読むべき24のテキスト](https://bnn.co.jp/products/9784802510332)
-- [Digital Design Theory (DDT)](https://www.digitaldesigntheory.com/)
+- [Digital Design Theory: Readings from the Field (DDT) ](https://www.digitaldesigntheory.com/)
 
 参考: [「書籍『未来を築くデザインの思想』の分析：デジタルデザインの思想的変遷とポスト人間中心デザインへの道程」](./ddt-outline.md)
 
